@@ -33,3 +33,11 @@
 // lesson 3
 // lesson 3
 // Array and objects
+
+
+let arr = ['one','two','three'];
+let arr2 = ['one','two','three',12];
+let arr3= [{name:"kittu"},'one','two','three',12,true,{yolo:'yolo'},['qw',12,true],{name:"kittu"}];
+arr3.push(['ok',12],{name:"kittu"})
+
+console.log(arr3)
